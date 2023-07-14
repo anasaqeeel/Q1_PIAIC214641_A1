@@ -1,3 +1,5 @@
+// Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
+
 let var1: string = "anas bin aqeel";
 console.log("LowerCase: " + var1.toLowerCase(), "UpperCase: " + var1.toUpperCase()+" TitleCase: " + titleCase(var1));
 function titleCase(str: string): string {
